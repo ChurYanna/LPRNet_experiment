@@ -1,0 +1,4 @@
+experiment,best_epoch,best_val_exact_acc,best_val_char_acc,best_val_ned,lr_at_best,sec_at_epoch
+baseline,54,0.988800,0.997829,0.998232,0.00002447,18.65
+B_r10,51,0.899600,0.976629,0.981826,0.00005450,2.75
+B_r50,57,0.979200,0.996029,0.996757,0.00000616,9.81
